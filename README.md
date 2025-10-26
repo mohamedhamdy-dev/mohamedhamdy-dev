@@ -28,34 +28,10 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhamdy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🌱 Currently Working On
 - Enhancing backend & API development skills  
 - Learning **Next.js Fullstack patterns** (API routes, server actions, database integration)  
 - Building clean and maintainable UI systems
-
----
-
-### 📌 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🏗️ Portfolio Website](https://portfolio-git-main-mohamed-hamdys-projects-633fbea9.vercel.app/) | My personal portfolio built with Next.js & Tailwind | Next.js, Tailwind |
-| [🛒 E-Commerce Dashboard](#) | Admin dashboard for managing products & analytics | React, Firebase |
-| [🌤️ Weather App](#) | Real-time weather app using OpenWeather API | React, API |
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhamdy&theme=onedark&no-frame=true&column=5" />
-</p>
 
 ---
 
@@ -67,7 +43,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <sub>✨ Always learning. Always building.</sub>
-</p>
