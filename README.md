@@ -100,7 +100,7 @@ High-performance IoT monitoring dashboard.
 
 ## 📈 GitHub Stats
 
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedHamdy-dev&show_icons=true&theme=radical&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamdy-dev&layout=compact&theme=radical&hide_border=true)
 
 ---
