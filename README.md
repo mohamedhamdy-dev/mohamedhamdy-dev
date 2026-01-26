@@ -3,7 +3,7 @@
 
 **`Software Engineer | Frontend Specialist | React Ecosystem Enthusiast`**
 
-I'm a passionate Software Engineer skilled in building high-performance, user-centric web applications with modern frontend technologies. Currently pursuing my Bachelor's in Computer and Systems Engineering at Helwan University with an Excellent grade (87.85%). I specialize in the React ecosystem, with proficiency in Next.js for SSR/SSG, TypeScript, and responsive design, complemented by backend knowledge in Node.js and RESTful APIs.
+Passionate Software Engineer specializing in the development of high-performance, user‑centric web applications using modern frontend technologies. Holds a Bachelor’s in Computer and Systems Engineering from Helwan University, graduating with an Excellent overall grade of 87.85%. Proficient in the React ecosystem, including Next.js for SSR/SSG, TypeScript, and responsive design—complemented by backend experience in Node.js and RESTful API development.
 
 ---
 
