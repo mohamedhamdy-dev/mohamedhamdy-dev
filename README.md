@@ -80,7 +80,7 @@ High-performance IoT monitoring dashboard.
 
 ## 📚 Education & Certifications
 
-- **Bachelor of Computer and Systems Engineering** - *Helwan University, Cairo* (Expected 05/2025)
+- **Bachelor of Computer and Systems Engineering** - *Helwan University, Cairo*  05/2025
   - Grade: Excellent (87.85%)
 - **ITI Summer Training** - *Information Technology Institute* (07/2023 - 08/2023)
   - Frontend fundamentals: HTML, CSS, JavaScript, React
