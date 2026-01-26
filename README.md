@@ -51,7 +51,7 @@ A responsive anime discovery platform with real-time data.
 - **Tech Stack:** React, React Query, Vanilla CSS
 - **Features:** Integrated anime APIs, data caching, fully responsive UI built from scratch
 
-### **[Rick and Morty](https://rick-and-morty-murex-nu.vercel.app/)**
+### **[Rick and Morty](https://github.com/mohamedhamdy-dev/RickAndMorty)**
 Dynamic character explorer using Next.js and TypeScript.
 - **Tech Stack:** Next.js, TypeScript, Tailwind CSS
 - **Features:** Responsive UI, modular components, official API integration
