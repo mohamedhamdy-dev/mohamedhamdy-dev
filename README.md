@@ -17,7 +17,7 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 * Creating analytical dashboards and interactive data visualizations
 * Implementing real-time features and live updates using **Socket.IO**
 
----
+
 
 ## Education
 
@@ -80,7 +80,7 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
----
+
 
 ## Experience
 
@@ -114,7 +114,7 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 * Created interactive charts and statistical dashboards using **Recharts**
 * Developed responsive and reusable interfaces with **Next.js, Tailwind CSS, and shadcn/ui**
 
----
+
 
 ## What I Focus On
 
