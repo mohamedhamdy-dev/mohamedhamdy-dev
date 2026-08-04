@@ -24,8 +24,8 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 ### Bachelor of Engineering (B.E.) in Computer and Systems Engineering
 
 **Faculty of Engineering, Helwan University**
-- Cairo, Egypt
-- September 2020 – May 2025
+| Cairo, Egypt
+| September 2020 – May 2025
 
  **Grade: Excellent with Honors**
 | **CGPA: 3.7 / 4.0**
