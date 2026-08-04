@@ -1,117 +1,224 @@
+# Hi 👋, I'm Mohamed Hamdy
 
-# 👋 Hello, I'm Mohamed Hamdy
+### Frontend Engineer | React • Next.js • TypeScript
 
-**`Software Engineer | Frontend Specialist | React Ecosystem Enthusiast`**
+I’m a Frontend Engineer based in Cairo, Egypt, specializing in building **scalable, responsive, high-performance web applications** using modern frontend technologies.
 
-Passionate Software Engineer specializing in the development of high-performance, user‑centric web applications using modern frontend technologies. Holds a Bachelor’s in Computer and Systems Engineering from Helwan University, graduating with an Excellent overall grade of 87.85%. Proficient in the React ecosystem, including Next.js for SSR/SSG, TypeScript, and responsive design—complemented by backend experience in Node.js and RESTful API development.
+I focus on writing **clean, maintainable code**, designing reusable components, and organizing applications into clear layers that support long-term scalability and maintainability.
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Styling & UI Libraries**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Material Tailwind](https://img.shields.io/badge/Material_Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### **State Management & Data Fetching**
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+🔭 Currently working as a **Frontend Engineer at Egyptian E-Learning University (EELU)**
+🌱 Currently expanding my knowledge in **Next.js, frontend architecture, and backend development**
+💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, and frontend architecture**
+📫 Reach me at **[mohamed.hamdy.41220@gmail.com](mailto:mohamed.hamdy.41220@gmail.com)**
+🌐 Check out my portfolio: **[Portfolio Website](https://portfolio-ecru-mu-73.vercel.app/)**
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### **[AnimeU](https://github.com/MohamedHamdy-dev/AnimeU)**
-A responsive anime discovery platform with real-time data.
-- **Tech Stack:** React, React Query, Vanilla CSS
-- **Features:** Integrated anime APIs, data caching, fully responsive UI built from scratch
-
-### **[Rick and Morty](https://github.com/mohamedhamdy-dev/RickAndMorty)**
-Dynamic character explorer using Next.js and TypeScript.
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS
-- **Features:** Responsive UI, modular components, official API integration
-
-### **[Quizzy](https://github.com/MohamedHamdy-dev/Quizzy)**
-Interactive quiz application with modern React features.
-- **Tech Stack:** Next.js 15, React 19, TypeScript, Framer Motion
-- **Features:** Smooth animations, mobile-friendly UI, clean code architecture
-
-### **[Harvest Hub](https://github.com/MohamedHamdy-dev/Harvest-Hub)**
-Agricultural management dashboard with Firebase integration.
-- **Tech Stack:** React, Redux Toolkit, Firebase, Tailwind CSS
-- **Features:** Authentication, pagination, charts, clean code practices
-
-### **[Flick Fetch](https://github.com/MohamedHamdy-dev/Flick-Fetch)**
-Movie discovery application with dynamic animations.
-- **Tech Stack:** React, TypeScript, Framer Motion, Tailwind CSS
-- **Features:** Smooth transitions, responsive design, custom UI components
-
-### **[IoT Dashboard](https://github.com/MohamedHamdy-dev/LeoU-IOT)**
-High-performance IoT monitoring dashboard.
-- **Tech Stack:** React, Vite, Tailwind CSS, React Router
-- **Features:** Single-page architecture, modular design, responsive layout
+* 💻 Frontend Engineer with professional experience building **administrative dashboards** and **public-facing platforms**
+* ⚛️ Specialized in **React, Next.js, TypeScript, and modern frontend development**
+* 🏗️ Interested in **clean architecture, layered application design, reusable components, and maintainable codebases**
+* ⚡ Experienced with **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)**
+* 📊 Built analytical dashboards and interactive data visualizations
+* 🔄 Worked with real-time applications using **Socket.IO**
+* 🧩 Focused on creating responsive, accessible, and user-friendly interfaces
 
 ---
 
-## 📚 Education & Certifications
+## 🛠️ Tech Stack
 
-- **Bachelor of Computer and Systems Engineering** - *Helwan University, Cairo*  (09/2020 - 05/2025)
-  - Grade: Excellent (87.85%)
-- **ITI Summer Training** - *Information Technology Institute* (07/2023 - 08/2023)
-  - Frontend fundamentals: HTML, CSS, JavaScript, React
-- **The Ultimate React Course 2025** - *Udemy, Jonas Schmedtmann*
-- **Advanced CSS and Sass** - *Udemy, Jonas Schmedtmann*
-- **Build Responsive Real-World Websites** - *Udemy, Jonas Schmedtmann*
-- **Node.js, Express, MongoDB Complete Bootcamp** - *Udemy, Jonas Schmedtmann*
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+</p>
+
+### UI & Styling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+* Tailwind CSS
+* shadcn/ui
+* Responsive Design
+* Accessible UI Development
+
+### State Management & Data Fetching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
+
+* Redux Toolkit
+* Zustand
+* Context API
+* TanStack Query
+* React Hook Form
+
+### Backend Knowledge
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+* Node.js
+* Express.js
+* MongoDB
+* REST APIs
+* Socket.IO
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
-## 🌐 Languages
+## 💼 Professional Experience
 
-- **Arabic** - Native proficiency
-- **English** - Fluent / Professional level
+### Frontend Engineer — Egyptian E-Learning University (EELU)
+
+**February 2026 – Present**
+
+* Developed and maintained the **FASU Games Management Dashboard**
+* Built centralized management features for:
+
+  * Universities
+  * Students
+  * Staff members
+  * Local Organizing Committee (LOC) members
+  * Sports
+  * Individual and team sports
+  * Users
+  * Matches
+  * News and press content
+* Built analytical interfaces for:
+
+  * Overview analytics
+  * University statistics
+  * Sports statistics
+  * User profile management
+* Developed the public-facing **FASU Games Informative Website**
+* Built the **Home Page, News Hub, Press Hub, and Match Center**
+* Integrated **Socket.IO** for real-time match updates and live score changes
+* Used **TanStack Query** for API data fetching, caching, synchronization, and efficient server-state updates
+* Built scalable and validated forms using **React Hook Form**
+* Created interactive charts and statistical dashboards using **Recharts**
+* Developed responsive and reusable interfaces with **Next.js, Tailwind CSS, and shadcn/ui**
+
+### Freelance Frontend Engineer — Al Salam Company
+
+**November 2025 – December 2025**
+
+* Maintained and refactored an existing frontend codebase
+* Improved code readability, maintainability, and overall application structure
+* Enhanced UI layout and styling consistency
+* Implemented new product-related features based on business requirements
 
 ---
 
-## 📈 GitHub Stats
+## 🏗️ What I Focus On
 
+```text
+Frontend Application
+│
+├── Presentation Layer
+│   ├── Pages
+│   ├── Components
+│   └── UI States
+│
+├── Business Logic Layer
+│   ├── Custom Hooks
+│   ├── Application Logic
+│   └── Data Transformations
+│
+├── Service Layer
+│   ├── API Requests
+│   └── External Integrations
+│
+└── Shared Layer
+    ├── Reusable Components
+    ├── Utilities
+    ├── Types
+    └── Constants
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHamdy-dev&layout=compact&theme=radical&hide_border=true)
+I aim to separate concerns clearly so applications remain easier to **understand, test, maintain, and scale**.
 
 ---
 
-## 📫 Connect With Me
+## 📌 Featured Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamdy.hamdy.41220@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedhamdy-dev)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2001022736402)
+### 🏆 FASU Games Management Dashboard
+
+A centralized administrative platform for managing universities, users, participants, sports, matches, news, and press content.
+
+**Technologies:**
+
+`Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `TanStack Query` `React Hook Form` `Recharts`
+
+### ⚽ FASU Games Informative Website
+
+A public-facing platform featuring:
+
+* News Hub
+* Press Hub
+* Match Center
+* Real-time match updates
+* Live score changes
+
+**Technologies:**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Socket.IO`
 
 ---
 
-*✨ "Simplicity is the soul of efficiency." – Austin Freeman ✨*
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mohamedhamdy-dev&show_icons=true&hide_border=true"
+    alt="Mohamed Hamdy's GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdy-dev&hide_border=true"
+    alt="Mohamed Hamdy's GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdy-dev&layout=compact&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-hamdy-219a35372/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://portfolio-ecru-mu-73.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="mailto:mohamed.hamdy.41220@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building scalable frontend experiences with clean architecture and modern web technologies.</i>
+</p>
