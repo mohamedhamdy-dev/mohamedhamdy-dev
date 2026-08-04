@@ -8,14 +8,14 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 
 ### Core Areas of Expertise
 
-* ⚛️ Building scalable applications with **React, Next.js, and TypeScript**
-* 🏗️ Designing maintainable frontend architectures using **layered application design** and clear separation of concerns
-* 🧩 Developing reusable, responsive, and accessible user interfaces
-* ⚡ Applying **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** to improve performance and user experience
-* 🔄 Managing server state, caching, and API synchronization with **TanStack Query**
-* 📝 Building scalable and validated forms using **React Hook Form**
-* 📊 Creating analytical dashboards and interactive data visualizations
-* 🔴 Implementing real-time features and live updates using **Socket.IO**
+* Building scalable applications with **React, Next.js, and TypeScript**
+* Designing maintainable frontend architectures using **layered application design** and clear separation of concerns
+* Developing reusable, responsive, and accessible user interfaces
+* Applying **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** to improve performance and user experience
+* Managing server state, caching, and API synchronization with **TanStack Query**
+* Building scalable and validated forms using **React Hook Form**
+* Creating analytical dashboards and interactive data visualizations
+* Implementing real-time features and live updates using **Socket.IO**
 
 ---
 
