@@ -19,7 +19,7 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Bachelor of Engineering (B.E.) in Computer and Systems Engineering
 
@@ -31,7 +31,7 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 📈 **CGPA: 3.7 / 4.0**
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -82,7 +82,7 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 
 ---
 
-## 💼 Professional Experience
+## Experience
 
 ### Frontend Engineer — Egyptian E-Learning University (EELU)
 
@@ -116,7 +116,7 @@ Focused on developing responsive, accessible, and maintainable user interfaces t
 
 ---
 
-## 🏗️ What I Focus On
+## What I Focus On
 
 ```text
 Frontend Application
@@ -146,7 +146,7 @@ I aim to separate concerns clearly so applications remain easier to **understand
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🏆 FASU Games Management Dashboard
 
