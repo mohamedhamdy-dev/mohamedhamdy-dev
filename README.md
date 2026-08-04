@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohamed Hamdy
+# Hi, I'm Mohamed Hamdy
 
 ### Frontend Engineer | React • Next.js • TypeScript
 
