@@ -103,15 +103,6 @@ I focus on writing **clean, maintainable code**, designing reusable components, 
 * Created interactive charts and statistical dashboards using **Recharts**
 * Developed responsive and reusable interfaces with **Next.js, Tailwind CSS, and shadcn/ui**
 
-### Freelance Frontend Engineer — Al Salam Company
-
-**November 2025 – December 2025**
-
-* Maintained and refactored an existing frontend codebase
-* Improved code readability, maintainability, and overall application structure
-* Enhanced UI layout and styling consistency
-* Implemented new product-related features based on business requirements
-
 ---
 
 ## 🏗️ What I Focus On
