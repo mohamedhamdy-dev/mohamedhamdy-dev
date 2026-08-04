@@ -148,7 +148,7 @@ I aim to separate concerns clearly so applications remain easier to **understand
 
 ## Featured Projects
 
-### 🏆 FASU Games Management Dashboard
+### FASU Games Management Dashboard
 
 A centralized administrative platform for managing universities, users, participants, sports, matches, news, and press content.
 
@@ -156,7 +156,7 @@ A centralized administrative platform for managing universities, users, particip
 
 `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `TanStack Query` `React Hook Form` `Recharts`
 
-### ⚽ FASU Games Informative Website
+### FASU Games Informative Website
 
 A public-facing platform featuring:
 
