@@ -2,23 +2,34 @@
 
 ### Frontend Engineer | React • Next.js • TypeScript
 
-I’m a Frontend Engineer based in Cairo, Egypt, specializing in building **scalable, responsive, high-performance web applications** using modern frontend technologies.
+Frontend Engineer specializing in **React, Next.js, and TypeScript**, with experience building scalable administrative dashboards and high-performance public-facing web applications.
 
-I focus on writing **clean, maintainable code**, designing reusable components, and organizing applications into clear layers that support long-term scalability and maintainability.
+Focused on developing responsive, accessible, and maintainable user interfaces through **clean architecture, reusable components, and clear separation of concerns**. Experienced in modern rendering strategies, server-state management, form development, data visualization, and real-time application features.
+
+### Core Areas of Expertise
+
+* ⚛️ Building scalable applications with **React, Next.js, and TypeScript**
+* 🏗️ Designing maintainable frontend architectures using **layered application design** and clear separation of concerns
+* 🧩 Developing reusable, responsive, and accessible user interfaces
+* ⚡ Applying **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)** to improve performance and user experience
+* 🔄 Managing server state, caching, and API synchronization with **TanStack Query**
+* 📝 Building scalable and validated forms using **React Hook Form**
+* 📊 Creating analytical dashboards and interactive data visualizations
+* 🔴 Implementing real-time features and live updates using **Socket.IO**
 
 ---
 
-## 🚀 About Me
+## 🎓 Education
 
-* 💻 Frontend Engineer with professional experience building **administrative dashboards** and **public-facing platforms**
-* ⚛️ Specialized in **React, Next.js, TypeScript, and modern frontend development**
-* 🏗️ Interested in **clean architecture, layered application design, reusable components, and maintainable codebases**
-* ⚡ Experienced with **Server-Side Rendering (SSR)** and **Static Site Generation (SSG)**
-* 📊 Built analytical dashboards and interactive data visualizations
-* 🔄 Worked with real-time applications using **Socket.IO**
-* 🧩 Focused on creating responsive, accessible, and user-friendly interfaces
+### Bachelor of Engineering (B.E.) in Computer and Systems Engineering
 
----
+**Faculty of Engineering, Helwan University**
+📍 Cairo, Egypt
+📅 September 2020 – May 2025
+
+🏆 **Grade: Excellent with Honors**
+📈 **CGPA: 3.7 / 4.0**
+
 
 ## 🛠️ Tech Stack
 
