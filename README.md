@@ -168,51 +168,6 @@ A public-facing platform featuring:
 
 `Next.js` `TypeScript` `Tailwind CSS` `Socket.IO`
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mohamedhamdy-dev&show_icons=true&hide_border=true"
-    alt="Mohamed Hamdy's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhamdy-dev&hide_border=true"
-    alt="Mohamed Hamdy's GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhamdy-dev&layout=compact&hide_border=true"
-    alt="Most used languages"
-  />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/mohamed-hamdy-219a35372/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://portfolio-ecru-mu-73.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
-  </a>
-
-  <a href="mailto:mohamed.hamdy.41220@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>Building scalable frontend experiences with clean architecture and modern web technologies.</i>
 </p>
