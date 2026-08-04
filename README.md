@@ -6,12 +6,6 @@ I’m a Frontend Engineer based in Cairo, Egypt, specializing in building **scal
 
 I focus on writing **clean, maintainable code**, designing reusable components, and organizing applications into clear layers that support long-term scalability and maintainability.
 
-🔭 Currently working as a **Frontend Engineer at Egyptian E-Learning University (EELU)**
-🌱 Currently expanding my knowledge in **Next.js, frontend architecture, and backend development**
-💬 Ask me about **React, Next.js, TypeScript, Tailwind CSS, and frontend architecture**
-📫 Reach me at **[mohamed.hamdy.41220@gmail.com](mailto:mohamed.hamdy.41220@gmail.com)**
-🌐 Check out my portfolio: **[Portfolio Website](https://portfolio-ecru-mu-73.vercel.app/)**
-
 ---
 
 ## 🚀 About Me
